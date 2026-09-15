@@ -2,6 +2,8 @@
 
 Technical case study of the architecture and engineering behind the product.
 
+**Live Product:** https://m41nfr4m3.com/
+
 ## Overview
 
 M41NFR4M3 is an authenticated web application that brings identity, collection data, rewards, marketplace functionality, community features and governance into a single platform. It was originally developed for the D1srupt0rs ecosystem and is expanding toward the wider Solana community.
